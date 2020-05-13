@@ -4,6 +4,10 @@
     font-family: customFont1;
 
 } 
+.homepage-grid {
+    background-color: #3b5998; 
+    color: white;
+}
 @font-face {
     font-family: customFont1;
     src: url(custom-fonts/Komika/KOMTXKBI.ttf)
