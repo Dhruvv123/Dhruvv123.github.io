@@ -1,8 +1,7 @@
 .aidans-section{
-    /*background-color: #4285f4;*/
+    background-color: #4285f4;
     border-radius: 15px;
     font-family: customFont1;
-    background-image: repeating-linear-gradient(red, yellow 10%, green 20%);
 } 
 .homepage-grid {
     background-color: #3b5998; 
