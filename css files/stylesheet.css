@@ -24,11 +24,10 @@
     Background-color: green;
 }
 
-grad1 {
-    height: 200px;
+.grad1 {
     background-color: red; /* For browsers that do not support gradients */
     background-image: linear-gradient(red, yellow); /* Standard syntax (must be last) */
-
+}
 h1 {
   color: white;
   text-align: center;
