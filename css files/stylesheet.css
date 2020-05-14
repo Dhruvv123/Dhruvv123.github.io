@@ -1,9 +1,12 @@
 .aidans-section{
     background-color: #4285f4;
-    background-image: repeating-linear-gradient(90deg, #4285f4, #3b5998, #4285f4);
+    background-image: repeating-linear-gradient(#4285f4, #00a4ef, #4285f4);
     border-radius: 15px;
     font-family: customFont1;
 } 
+.aidans-section p{
+    font-family: customFont1;
+}
 .homepage-grid {
     background-color: #3b5998; 
     color: white;
@@ -32,14 +35,12 @@ h1 {
 }
 
 ol {
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    font-size: 24px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
-/*<h1 style="background-color:DodgerBlue;">Hello World</h1>*/
 
 p {
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: Arial, Helvetica, sans-serif;
     font-size: 24px;
 }
 
