@@ -70,6 +70,7 @@
                 <div class="table-striped row homepage-grid">
                     <div class="col fa-border">1</div>
                 </div>
+                <!--INSTR: Missing a quote mark below.-->
                 <div id="loading-spinner class="spinner-border text-success"></div>
             </div>
 
@@ -129,6 +130,7 @@
             <div class="dhruvs-section grad1 tab-pane container fade" id="dhruvs-section">    
                 <h1>hello welcome to Dhruv's section</h1>
                 <h2>part 2</h2>
+                <!--INSTR: This list you're using for the dropdown menu seems wrong to me. First, list items should be nested within a ol or ul tag. Second, should each link be it's own list item?-->
                 <li class="nav-item dropdown">
                     <a class="nav-link dropdown-toggle" href="#" id="navbardrop" data-toggle="dropdown">
                     Dropdown link
@@ -156,6 +158,8 @@
                         <li>phone</li>
                         <li>game</li>
                     </ol>
+
+                    <!--INSTR: Why is this duplicated?-->
         <h1>hello welcome to Dhruv's section</h1>
             <h2>part 2</h2>
             <li class="nav-item dropdown">
@@ -185,7 +189,7 @@
                     <li>phone</li>
                     <li>game</li>
                 </ol>
-            
+            <!--INSTR: ids are unique. You've got two elements with dhruv-ol ids. Change these to class.-->
                 <ol id="dhruv-ol">
                     <li class="interests">name</li>
                     <li>number</li>
@@ -236,6 +240,7 @@
                         <h3>Third Grid Part</h3>
                         <p>Small part 3</p>
                       </div>
+                      <!--INSTR: For some reason the text isn't wrapping within the grid cell. Not sure why, but can you look into it?-->
                       <div class="col-sm-2 backtemp">
                         <h3>Fourth Grid Part</h3>
                         <p>Small part 4</p>
@@ -264,6 +269,7 @@
                         <td>Terraria</td>
                         <td>Stardew Valley</td>
                         </tr>
+                        <!--INSTR: ids must be unique. Change these to class. If you're doing JS stuff with them, make each id unique.-->
                         <tr id="change1">
                             <th>Table 3, Interesting Facts</th>
                         <td>Peacocks can increase their height of flight even if it is more of a glide</td>
