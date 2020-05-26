@@ -1,0 +1,71 @@
+@import url(./css/)
+
+
+.container {
+    margin-left: auto;
+    margin-right:auto;
+    width: 1024px;
+}
+
+body {
+    background-color: darkorchid;
+    background-image: url(images/pablo-17.png); 
+    
+    
+  
+}
+
+   header {
+       background-color: rgba(0, 128, 128, 0);
+       height: auto;
+       text-align: center;
+       
+  }
+
+   nav {
+       background-color: rgba(0, 128, 128, 0.726);
+       height: 135px;
+       text-align: center;
+       text-decoration-color: white;
+  }
+
+   main {
+        height: 400px;
+        text-align: center;
+        padding-top: 80px;
+        padding-left: 240px;
+        padding-right: 240px;
+        padding-bottom: 80px;
+        
+
+   }
+
+   footer {
+        background-color: rgba(0, 128, 128, 0.726);
+        height: 118px;
+        
+
+   }
+
+   h1 {
+     font-size: 84px;
+     font-family: Arial, Helvetica, sans-serif;
+     color: oldlace;
+   }
+   
+   p {
+     font-size: 18px;
+     font-family: Arial, Helvetica, sans-serif;
+     color: oldlace;
+   }
+   
+   a {
+     color: white;
+     
+      display: block;
+      color: white;
+      text-align: center;
+      
+      padding: 14px 16px;
+      text-decoration: none;
+   }
