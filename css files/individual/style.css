@@ -6,6 +6,10 @@
     width: 1024px;
 }
 
+.header-area .main-menu .navbar .navbar-brand{
+    padding-left: 50px;
+}
+
 main {
     height: 400px;
     text-align: center;
