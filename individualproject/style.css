@@ -1,13 +1,10 @@
 @import url(./Fonts/Roboto/Roboto-Regular.ttf)
 
-.container {
-    margin-left: auto;
-    margin-right:auto;
-    width: 1024px;
-}
+
 
 .header-area .main-menu .navbar .navbar-brand{
     padding-left: 50px;
+    background-color: teal;
 }
 
 main {
@@ -19,10 +16,17 @@ main {
     padding-bottom: 80px;
 }
 
+img {
+    align-self: center;
+    height: 190px;
+    width: 180px;
+}
+
 footer {
     background-color: rgba(0, 124, 128, 0.726);
     margin-bottom: auto;
     height: 50px;
+    
     padding-bottom: 200px;
 }
 
@@ -41,6 +45,9 @@ p {
 .navbar-brand {
     height: 60px;
 }
+
+.header-area .
+
 
 
 
