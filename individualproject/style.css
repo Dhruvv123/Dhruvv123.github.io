@@ -1,24 +1,19 @@
 body {
     background-color: teal;
+    background-image: url(images/2880x1800-yellow-green-solid-color-background.jpg)
 }
 
 .description {
     text-align: center;
-}
-
-
-
-
-}
-
-main {
-    height: 400px;
-    text-align: center;
     padding-top: 200px;
-    padding-left: 240px;
-    padding-right: 240px;
-    padding-bottom: 80px;
 }
+
+
+
+
+}
+
+
 
 img {
     align-self: center;
@@ -43,7 +38,7 @@ h1 {
 p {
     font-size: 18px;
     font-family: Arial, Helvetica, sans-serif;
-    color: rgb(28, 187, 174);
+    color: rgb(233, 238, 243);
 }
 
 .navbar-brand {
