@@ -10,14 +10,13 @@ body {
 }
 
 
-.header_area .main-menu .navbar-brand .navbarNav {
-    padding-right: 400px;
-}
+
 
 
 .container2 {
     width: 500px;
     border: 2px solid white;
+    align-self: right;
 
 }
 
